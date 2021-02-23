@@ -9,22 +9,22 @@ This is an Interactive landing Page that contains Four main sections and a navba
 ## Tools
 
 in this Project we used 
-HTML
-CSS
+HTML,
+CSS and
 JavaScript, Especially Dom Techniques 
 
 ## Features
 
-There are 4 main sections that have been added to the page.
-Navigation is built dynamically as an unordered list.
-when each sections be in the view port it will been highlihted and it's links will be active.
-Styling has been added for active states.
+There are 4 main sections that have been added to the page,
+Navigation is built dynamically as an unordered list,
+when each sections be in the view port it will been highlihted and it's links will be active,
+Styling has been added for active states,
 When clicking an item from the navigation menu, the link scroll to the appropriate section. 
 
 ## Explanation
-in first part in js code we define global variables.
-Then it creates links by number of sections.
-and add 'href' Attribute to the 'a' element to use it in scrolling.
+*in first part in js code we define global variables,
+*Then it creates links by number of sections,
+and add 'href' Attribute to the 'a' element to use it in scrolling,
 then append this links to the ul elemnt.
 
 
