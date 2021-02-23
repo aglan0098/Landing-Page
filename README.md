@@ -22,8 +22,8 @@ Styling has been added for active states,
 When clicking an item from the navigation menu, the link scroll to the appropriate section. 
 
 ## Explanation
-*in first part in js code we define global variables,
-*Then it creates links by number of sections,
+in first part in js code we define global variables,
+Then it creates links by number of sections,
 and add 'href' Attribute to the 'a' element to use it in scrolling,
 then append this links to the ul elemnt.
 
